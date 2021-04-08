@@ -1,0 +1,31 @@
+
+body{
+    background-color: black;
+}
+.jordanimg{
+    padding-top: 250px ;
+   
+   
+    height: 400px;
+    width: 100%;
+    align-items: center;
+}
+.jordandebate{
+    padding-top: 25%;
+    width: 100%;
+}
+.col{
+    color: white;
+    float: right;
+}
+.lebronimg{
+    float: center;
+    padding-top: 70px;
+ 
+    height: 500px;
+    width:100% ;
+}
+.lebrondebate{
+    padding-top: 25%;
+    width: 100%;
+}
